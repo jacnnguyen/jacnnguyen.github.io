@@ -16,8 +16,3 @@ I’m a technical writer specializing in cloud platforms, APIs, and enterprise S
 View selected samples of my technical writing work, including cloud platforms, APIs, cybersecurity features, and enterprise SaaS documentation.
 
 ➡️ **[View Technical Writing Portfolio](portfolio/index.md)**
-
-## Learn More
-- [About Me](about.md)
-- [Resume](resume.md)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
