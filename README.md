@@ -13,7 +13,7 @@ I’m a technical writer specializing in cloud platforms, APIs, and enterprise S
 - Agile documentation with frequent releases
 
 ## Portfolio
-- [SaaS and Cloud Documentation](portfolio/saas-cloud.md)
+- [SaaS and Cloud Documentation](portfolio/saas-cloud)
 - [API Documentation](portfolio/api-documentation.md)
 
 ## Learn More
