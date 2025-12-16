@@ -1,1 +1,21 @@
+# Saas and Cloud Documentation
+
+**Audience:** Administrators, Security Engineers  
+**Content Types:** User guides, workflows, troubleshooting  
+**Tools:** Markdown, Git
+
+## Example Work
+- Documented a new feature enabling customers to generate privacy-enhanced synthetic datasets for training machine learning models while protecting sensitive data. This work included both user guide content and new API references.
+- * User Guide: https://docs.aws.amazon.com/clean-rooms/latest/userguide/synthetic-data-generation.html
+- Authored documentation for a feature allowing customers to limit how often datasets can be used for queries, jobs, and ML input channels.
+- * Configuring a Data Access Budget: https://docs.aws.amazon.com/clean-rooms/latest/userguide/configure-data-access-budget.html
+- Wrote console-based instructions aligned with a new AWS Clean Rooms UI for configuring error summaries and log redaction. Validated and verified JSON examples using an API linter.
+- *	Associate a Configured Model Algorithm: https://docs.aws.amazon.com/clean-rooms/latest/userguide/associate-model-algorithm.html
+
+**Focus Areas:**
+- Generating privacy-enhanced synthetic dataset for training machine learning models concepts
+- Protecting sensitive data
+- Limit how often datasets can be used for queries, jobs, and machine learning input channels
+
+
 
