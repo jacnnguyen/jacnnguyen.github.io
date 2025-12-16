@@ -13,8 +13,9 @@ I’m a technical writer specializing in cloud platforms, APIs, and enterprise S
 - Agile documentation with frequent releases
 
 ## Portfolio
-- [SaaS and Cloud Documentation](portfolio/saas-cloud)
-- [API Documentation](portfolio/api-documentation.md)
+View selected samples of my technical writing work, including cloud platforms, APIs, cybersecurity features, and enterprise SaaS documentation.
+
+➡️ **[View Technical Writing Portfolio](portfolio/index.md)**
 
 ## Learn More
 - [About Me](about.md)
