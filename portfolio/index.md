@@ -1,7 +1,3 @@
----
-title: Technical Writing Portfolio
----
-
 # Technical Writing Portfolio
 
 Below are selected samples of my technical writing work. These examples highlight my experience documenting cloud platforms, APIs, cybersecurity features, enterprise SaaS products, and integrations. All samples demonstrate a focus on clarity, accuracy, and customer success.
