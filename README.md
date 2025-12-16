@@ -1,4 +1,3 @@
-# jacnnguyen.github.io
 Portfolio
 # Jaclyn Nguyen – Technical Writer
 
