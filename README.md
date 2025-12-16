@@ -1,5 +1,4 @@
 Portfolio
-# Jaclyn Nguyen – Technical Writer
 
 I’m a technical writer specializing in cloud platforms, APIs, and enterprise SaaS documentation. I create clear, user-focused content that helps customers succeed and supports fast-moving engineering teams.
 
